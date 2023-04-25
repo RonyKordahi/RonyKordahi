@@ -1,3 +1,3 @@
 <div align="center">
-    ![hello](http://www.reactiongifs.com/r/fgwv.gif)
+    <img src="http://www.reactiongifs.com/r/fgwv.gif" alt="hello">
 </div>
