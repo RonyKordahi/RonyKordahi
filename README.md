@@ -16,6 +16,7 @@
 - I'm a big nerd 🤓
 - I'm an even bigger gamer 🎮
 - And I definitely ~~overuse~~ use emojis and gifs when I can get away with it 😋
+    - (╯°□°)╯︵ ┻━┻ is my favorite
 
 More on me:
 
