@@ -29,7 +29,7 @@
 
 ![NPM](assets/npm.svg) ![Yarn](assets/yarn.svg) ![Git](assets/git.svg) ![Create React App](assets/create.svg) ![Heroku](assets/heroku.svg) ![VSCode](assets/vscode.svg) ![Trello](assets/trello.svg)
 
-👆 Done with the help of this [amazing guide](https://dev.to/tolentinoel/customized-tech-stack-badges-for-your-profile-1dpg)
+👆 Done with the help of this [amazing guide](https://dev.to/tolentinoel/customized-tech-stack-badges-for-your-profile-1dpg).
 
 ---
 
