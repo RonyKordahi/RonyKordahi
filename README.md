@@ -1,1 +1,1 @@
-![hello](http://www.reactiongifs.com/r/fgwv.gif)
+<center>![hello](http://www.reactiongifs.com/r/fgwv.gif)</center>
