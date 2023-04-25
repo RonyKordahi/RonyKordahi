@@ -17,6 +17,10 @@
 - I'm an even bigger gamer 🎮
 - And I definitely ~~overuse~~ use emojis and gifs when I can get away with it 😋
 
+More on me:
+
+<a href="https://www.linkedin.com/in/rony-kordahi/">![Linkedin](assets/linkedin.svg)</a>
+
 ---
 
 ## My Tech Stack & Tools
@@ -58,7 +62,7 @@ My hobbies include:
 - Playing video games 🎮 (I think that was pretty obvious 😋)
 - Binge watching shows 🍿
 - Reading books and mangas 📖
-- Going out with friends 🌞
+- Geeking out with friends 😎
 
 ---
 
