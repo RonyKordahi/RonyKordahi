@@ -32,7 +32,7 @@ More on me:
 
 ![Node](assets/node.svg) ![Express](assets/express.svg) ![MongoDB](assets/mongo.svg) ![MySQL](assets/mysql.svg) ![Python](assets/python.svg) ![Sednove](assets/sednove.svg)
 
-![NPM](assets/npm.svg) ![Yarn](assets/yarn.svg) ![Git](assets/git.svg) ![Create React App](assets/create.svg) ![Heroku](assets/heroku.svg) ![VSCode](assets/vscode.svg) ![Trello](assets/trello.svg)
+![NPM](assets/npm.svg) ![Yarn](assets/yarn.svg) ![Git](assets/git.svg) ![Create React App](assets/create.svg) ![Heroku](assets/heroku.svg) ![VSCode](assets/vscode.svg) ![Trello](assets/trello.svg) ![Anaconda](assets/anaconda.svg)
 
 👆 Done with the help of this [amazing guide](https://dev.to/tolentinoel/customized-tech-stack-badges-for-your-profile-1dpg).
 
