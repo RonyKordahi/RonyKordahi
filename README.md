@@ -46,13 +46,13 @@ This section is a little small because I spent the last couple of years teaching
 
 A web app that helps users find the best price possible for their video game needs by scooping up the prices of the searched games (through web scraping) from some of the biggest online retailers and comparing the results side by side. It'll even let you know if it's on sale or not!
 
-Currently not hosted, so here's a [video demo](https://www.youtube.com/watch?v=71gavBLoIIA) to make up for it!
+> Currently not hosted, so here's a [video demo](https://www.youtube.com/watch?v=71gavBLoIIA) to make up for it!
 
 ### [Gadget Grotto](https://github.com/RonyKordahi/Gadget-Grotto) - Group Project
 
 A simulated online retail store that sells wearable tech for the future-minded consumer. This was done as a group project in a fully remote `Agile` environment in a team of 4. We had daily scrum meetings to keep each other and our PM up to date on the progress.
 
-Currently not hosted, so here's a [video demo](https://www.youtube.com/watch?v=nNqmNt6C6_Q) to make up for it!
+> Currently not hosted, so here's a [video demo](https://www.youtube.com/watch?v=nNqmNt6C6_Q) to make up for it!
 
 ---
 
