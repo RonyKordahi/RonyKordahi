@@ -30,7 +30,7 @@ More on me:
 
 ![React](assets/react.svg) ![Redux](assets/redux.svg) ![Styled Components](assets/styled.svg) 
 
-![Node](assets/node.svg) ![Express](assets/express.svg) ![MongoDB](assets/mongo.svg) ![MySQL](assets/mysql.svg) ![Python](assets/python.svg) ![Sednove](assets/sednove.svg)
+![Node](assets/node.svg) ![Express](assets/express.svg) ![MongoDB](assets/mongo.svg) ![MySQL](assets/mysql.svg) ![Python](assets/python.svg) ![Django](assets/django.svg) ![Sednove](assets/sednove.svg)
 
 ![NPM](assets/npm.svg) ![Yarn](assets/yarn.svg) ![Git](assets/git.svg) ![Create React App](assets/create.svg) ![VSCode](assets/vscode.svg) ![Anaconda](assets/anaconda.svg) ![Heroku](assets/heroku.svg) ![Trello](assets/trello.svg)
 
